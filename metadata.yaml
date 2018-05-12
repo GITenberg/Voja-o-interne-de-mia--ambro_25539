@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31407
     wikipedia: http://en.wikipedia.org/wiki/Xavier_de_Maistre
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25539#Voja-o-interne-de-mia--ambro
 gutenberg_bookshelf: Esperanto
 gutenberg_issued: '2008-05-12'
 gutenberg_type: Text
